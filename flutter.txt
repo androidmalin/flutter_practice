@@ -1,0 +1,21 @@
+# 1.官方文档
+[Flutter Doc](https://flutter.dev/docs/get-started/install)
+# 2.Dart语言入门学习.
+[认识 Dart语言](https://www.stephenw.cc/2018/04/20/dart-getting-start/)
+[Dart的变量和类型](https://www.stephenw.cc/2018/04/21/dart-var-types/)
+[Dart 的函数](https://www.stephenw.cc/2018/04/23/dart-func/)
+[Dart 的类](https://www.stephenw.cc/2018/04/25/dart-class/)
+[Dart 中的泛型](https://www.stephenw.cc/2018/04/27/dart-generics/)
+[Dart 语言入门](https://jekton.github.io/2018/09/04/dart-tutorial/)
+
+# 3.Flutter入门学习.
+[Flutter 开发（1）- 开发框架、流程、编译打包、调试](https://jekton.github.io/2018/08/26/flutter-first-app/)
+[Flutter 开发（2）- UI控件和布局](https://jekton.github.io/2018/08/26/flutter-ui-basic/)
+[Flutter 开发（3）- 交互、动画、手势和事件处理](https://jekton.github.io/2018/08/29/flutter-ux-basic/)
+[Flutter 开发（4）- 文件、存储和网络](https://jekton.github.io/2018/09/01/flutter-io-basic/)
+[Flutter 开发（5）- 插件的使用、开发和发布](https://jekton.github.io/2018/09/16/flutter-plugin-dev/)
+
+# 4.Flutter视频教程
+
+[Flutter开发基础教程_微信克隆](https://www.bilibili.com/video/av32622066)
+[Flutter 宁皓网](https://ninghao.net/package/flutter)
